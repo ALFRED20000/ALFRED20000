@@ -1,10 +1,10 @@
 <h1 align="center">Mr Alfred Mensah</h1>
 <h3 align="center">A motivated, curious, analytical and a passionate Devops Engineer from Ghana
 Experience in 
-### _linux and Scripting( Python or Shell)_
-### _Automation Tools: Experience with CI/CD tools_
-### _Configuration Management: Knowledge of tools like Terraform_
-### _
+- ### _linux and Scripting( Python or Shell)_
+- ### _Automation Tools: Experience with CI/CD tools_
+- ### _Configuration Management: Knowledge of tools like Terraform_
+- ### _
   
 </h3>
 
