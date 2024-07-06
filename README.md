@@ -1,5 +1,7 @@
 <h1 align="center">Mr Alfred Mensah</h1>
-<h3 align="center">A passionate Devops Engineer from Ghana</h3>
+<h3 align="center">A motivated, curious, analytical and a passionate Devops Engineer from Ghana
+Experience in linux ans scripting( Python or Shell)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfred20000&label=Profile%20views&color=0e75b6&style=flat" alt="alfred20000" /> </p>
 
