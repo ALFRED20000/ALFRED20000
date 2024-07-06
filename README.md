@@ -1,12 +1,16 @@
 <h1 align="center">Mr Alfred Mensah</h1>
 <h3 align="center">A motivated, curious, analytical and a passionate Devops Engineer from Ghana
-Experience in 
+Experience in  
 - ### _linux and Scripting( Python or Shell)_
 - ### _Automation Tools: Experience with CI/CD tools_
 - ### _Configuration Management: Knowledge of tools like Terraform_
 - ### _
   
 </h3>
+
+- ### _linux and Scripting( Python or Shell)_
+- ### _Automation Tools: Experience with CI/CD tools_
+- ### _Configuration Management: Knowledge of tools like Terraform_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfred20000&label=Profile%20views&color=0e75b6&style=flat" alt="alfred20000" /> </p>
 
