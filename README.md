@@ -6,9 +6,9 @@ Experience in:
 - ### _linux and Scripting( Python or Shell)_
 - ### _Automation Tools: Experience with CI/CD tools_
 - ### _Configuration Management: Knowledge of tools like Terraform_
-- ### _proficiency in infrastrature as  Code ( Terraform and cloud formation_
+- ### _Proficiency in infrastrature as  Code ( Terraform and cloud formation_
 - ### _AWS experince in (EC2. ECS, S3, Lampda Fucntions)_
-- ### _Docker Containerisation_
+- ### _Docker/Containerisation_
 - ### _Kubertetise_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfred20000&label=Profile%20views&color=0e75b6&style=flat" alt="alfred20000" /> </p>
