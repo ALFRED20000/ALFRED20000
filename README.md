@@ -8,7 +8,7 @@ Experience in:
 - ### _linux and Scripting( Python or Shell)_
 - ### _Automation Tools: Experience with CI/CD tools_
 - ### _Configuration Management: Knowledge of tools like Terraform_
-- ### _Proficiency in infrastrature as  Code ( Terraform and cloud formation_
+- ### _Proficiency in infrastracture as  Code ( Terraform and cloud formation_
 - ### _AWS experince in (EC2. ECS, S3, Lampda Fucntions)_
 - ### _Docker/Containerisation_
 - ### _Kubertetise_
