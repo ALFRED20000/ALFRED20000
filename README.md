@@ -1,5 +1,5 @@
 <h1 align="left">Mr Alfred Mensah</h1>
-<h3 align="center">A motivated, curious, analytical and a passionate Devops Engineer from Ghana 
+<h3 align="left">A motivated, curious, analytical and a passionate Devops Engineer from Ghana 
 Detail-oriented team player with strong organizational skills. 
 Ability to handle multiple projects simultaneously with a high degree of accuracy.</h3>
 
