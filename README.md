@@ -1,10 +1,10 @@
 <h1 align="left">Mr Alfred Mensah</h1>
-<h3 align="left">A motivated person with Certified Data Alytical skills, someone with strong passion in Cloud Architecture,
+<h3 align="left">A motivated person with Certified Data Analytical skills, someone with strong passion in Cloud Architecture,
 Detail-oriented team player and ability to handle multiple projects simultaneously with a high degree of accuracy.</h3>
 
 Cloud Architecture Experiences:
 
-- ### _Linux 
+- ### _Linux_
 - ### _Automation Tools: Experience with CI/CD tools_
 - ### _Configuration Management: Knowledge of tools like Terraform_
 - ### _Proficiency in infrastracture as  Code ( Terraform and cloud formation_
