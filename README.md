@@ -1,11 +1,10 @@
 <h1 align="left">Mr Alfred Mensah</h1>
-<h3 align="left">A motivated, curious, analytical and a passionate C from Ghana Cloud Architect
-Detail-oriented team player with strong organizational skills. 
-Ability to handle multiple projects simultaneously with a high degree of accuracy.</h3>
+<h3 align="left">A motivated person with Certified Data Alytical skills, someone with strong passion in Cloud Architecture,
+Detail-oriented team player and ability to handle multiple projects simultaneously with a high degree of accuracy.</h3>
 
-Experience in:
+Cloud Architecture Experiences:
 
-- ### _linux and Scripting( Python or Shell)_
+- ### _Linux 
 - ### _Automation Tools: Experience with CI/CD tools_
 - ### _Configuration Management: Knowledge of tools like Terraform_
 - ### _Proficiency in infrastracture as  Code ( Terraform and cloud formation_
