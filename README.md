@@ -11,6 +11,8 @@ Experience in:
 - ### _Proficiency in infrastracture as  Code ( Terraform and cloud formation_
 - ### _AWS experince in (EC2. ECS, S3, Lampda Fucntions, DynamoDB)_
 - ### _Kubertetise_
+- ### _Docker containerisation_
+- ### _Git and Github_
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfred20000&label=Profile%20views&color=0e75b6&style=flat" alt="alfred20000" /> </p>
 
