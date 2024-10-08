@@ -5,11 +5,9 @@ Detail-oriented team player and ability to handle multiple projects simultaneous
 Cloud Architecture Experiences:
 
 - ### _Linux_
-- ### _Automation Tools: Experience with CI/CD tools_
 - ### _Configuration Management: Knowledge of tools like Terraform_
 - ### _Proficiency in infrastracture as  Code ( Terraform and cloud formation_
 - ### _AWS experince in (EC2. ECS, S3, Lampda Fucntions, DynamoDB)_
-- ### _Kubertetise_
 - ### _Docker containerisation_
 - ### _Git and Github_
 
