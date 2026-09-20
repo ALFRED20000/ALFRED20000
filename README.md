@@ -17,7 +17,7 @@ Cloud Architecture Experiences:
 
 <p align="left"> <a href="https://twitter.com/alfredmensah" target="blank"><img src="https://img.shields.io/twitter/follow/alfredmensah?logo=twitter&style=for-the-badge" alt="alfredmensah" /></a> </p>
 
-- 🔭 I’m currently working on [Version 1](https://github.com/ALFRED20000/version1.git)
+- 🔭 I have completed working on [Version 1](https://github.com/ALFRED20000/version1.git)
 
 - 👯 This in my second project [Version 2](https://github.com/ALFRED20000/aws_version2.git)
 
