@@ -15,6 +15,7 @@ Cloud Architecture Experiences:
   ### Latest Deployment
   <p> https://alfred20000.github.io/Obiri_yeboah_demo/</p>
   <p> https://github.com/ALFRED20000/Set_password_on_pdf.git</p>
+  <p>https://github.com/ALFRED20000/wifi_qrcode_generator.git</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfred20000&label=Profile%20views&color=0e75b6&style=flat" alt="alfred20000" /> </p>
 
