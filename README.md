@@ -1,6 +1,6 @@
 <h1 align="left">Mr Alfred Mensah</h1>
-<h3 align="left">A motivated person with Certified Data Analytical skills, someone with strong passion in Cloud Architecture,
-Detail-oriented team player and ability to handle multiple projects simultaneously with a high degree of accuracy.</h3>
+<h3 align="left">A Certified Research Data Analyst with a foundation in both Qualitative and Quantitative Research Approach 
+and Database Administration.</h3>
 
 Cloud Architecture Experiences:
 
@@ -10,12 +10,15 @@ Cloud Architecture Experiences:
 - ### _AWS experince in (EC2. ECS, S3, Lampda Fucntions, DynamoDB)_
 - ### _Docker containerisation_
 - ### _Git and Github_
+ 
 
-  ## Frontend
-  ### Latest Deployment
+  ## Frontend & Other Programs
+  ### Latest Deployments
   <p> https://alfred20000.github.io/Obiri_yeboah_demo/</p>
+  <p>https://alfred20000.github.io/torbbs_website/</p>
   <p> https://github.com/ALFRED20000/Set_password_on_pdf.git</p>
   <p>https://github.com/ALFRED20000/wifi_qrcode_generator.git</p>
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfred20000&label=Profile%20views&color=0e75b6&style=flat" alt="alfred20000" /> </p>
 
